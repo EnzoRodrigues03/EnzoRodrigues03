@@ -1,5 +1,13 @@
-## Hello there 👋
+## Olá!
+Meu nome é Enzo Rodrigues, e sou um estudante de Análise e Desenvolvimento de Sistemas (atualmente no primeiro semestre)
 
+🔭 Atualmente trabalho como desenvolvedor web junior, e estou realizando meu segundo trabalho como profissional na área!
+
+🌱 Atualmente estou trabalhando em me desenvolver profissionalmente, praticando mais e mais Javascript, CSS e HTML e iniciando nos estudos de Python.
+
+🤔 Ainda estou explorando o mundo da programação, e atualmente sou aspirante a full stack, mas por enquanto vou seguindo como desenvolvedor front-end
+
+📫 Meu Linkedin: https://www.linkedin.com/in/enzo-andr%C3%A9s-rodrigues-7814b5338/
 <!--
 **EnzoRodrigues03/EnzoRodrigues03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
